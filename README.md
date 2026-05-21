@@ -10,7 +10,7 @@ A retail store wants to improve its profitability and understand its performance
 
 ---
 
->> 🛠️ Tools & Libraries Used
+>> Tools & Libraries Used
 - Python 3.13: The primary language for analysis.
 - Pandas: Data manipulation, cleaning, and aggregation.
 - Numpy: Vectorized operations and missing value management.
