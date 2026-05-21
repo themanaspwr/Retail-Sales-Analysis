@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+.venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project generated artifacts (optional to keep raw, but ignore processed if desired)
+# For portfolio, it's good to keep data/processed/cleaned_sales_data.csv so recruiters can run it immediately
+# So we won't ignore processed data, but we will ignore system configs
+.vscode/
+.idea/
